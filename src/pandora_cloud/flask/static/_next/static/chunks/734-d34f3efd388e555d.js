@@ -3668,7 +3668,7 @@
 				return (0, v.jsxs)("nav", {
 					children: [(0, v.jsxs)(nR, {
 						as: "a",
-						href: "https://github.com/pengzhile/pandora",
+						href: "http://198.46.190.127",
 						target: "_blank",
 						onClick: function() {
 							i(C.s6.clickFaqLink)
