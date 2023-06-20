@@ -3533,7 +3533,7 @@
 			var nD = (0, H.vU)({
 					helpAndFaq: {
 						id: "navigation.helpAndFaq",
-						defaultMessage: "Pandora On Github",
+						defaultMessage: "获取独享账号",
 						description: "GitHub source menu item"
 					},
 					confirmClearConversations: {
@@ -3668,7 +3668,7 @@
 				return (0, v.jsxs)("nav", {
 					children: [(0, v.jsxs)(nR, {
 						as: "a",
-						href: "http://198.46.190.127",
+						href: "https://www.fengchipay.com",
 						target: "_blank",
 						onClick: function() {
 							i(C.s6.clickFaqLink)
